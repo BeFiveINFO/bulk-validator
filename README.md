@@ -1,7 +1,7 @@
 # BeFive Bulk HTML Validator Front End
 
 ## Introduction
-This is a frontend for [Nu Html Checker](https://validator.w3.org/check) written with HTML5 / CSS3 / Javascript.
+This is a frontend for [Nu Html Checker](https://validator.w3.org/nu/) written with HTML5 / CSS3 / Javascript.
 
 ## Demo
 Live demonstration is available at [http://validator.befive.info/](http://validator.befive.info/)
