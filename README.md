@@ -1,5 +1,11 @@
 # BeFive Bulk HTML Validator Front End
 
+## Introduction
+This is a frontend for [Nu Html Checker](Nu Html Checker) written with HTML5 / CSS3 / Javascript.
+
+## Demo
+Live demonstration is available at [http://validator.befive.info/](http://validator.befive.info/)
+
 ## Installation
 Download the repo and decompress. Rename the folder and drag and drop the folder into anywhere in your webserver folder.
 
